@@ -29,3 +29,9 @@ Justificación breve de las librerías ideales para tareas específicas de Data 
 * Pandas
 * Matplotlib
 * Seaborn
+## 📝 Contenido de TP integrador
+| Fase | Descripción | Apertura | Cierre / Vencimiento | Estado |
+| :--- | :--- | :--- | :--- | :--- |
+| **1️⃣ Entrega Parcial 1** | Consolidado de Datasets y Análisis Exploratorio Individual | 16/Mar/2026 | **24/Abr/2026 (23:59hs)** | Finalizado |
+| **2️⃣ Entrega Parcial 2** | EDA Grupal, Hipótesis, Gráficos y Limpieza | 16/Mar/2026 | **11/May/2026 (23:59hs)** | Finalizado |
+| **3️⃣ Entrega Final** | Proyecto Completo + Modelado de Machine Learning | 16/Mar/2026 | **08/Jun/2026 (23:59hs)** | Próximamente |
