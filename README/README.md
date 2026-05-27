@@ -1,5 +1,5 @@
 # Desarrollo de Sistemas de Inteligencia Artificial 2026 1C
-# Ejercicios de Data Science con Python
+## Ejercicios de Data Science con Python
 
 Este repositorio contiene la resolución de tres ejercicios prácticos para la introducción a la manipulación y análisis de datos utilizando Python.
 
